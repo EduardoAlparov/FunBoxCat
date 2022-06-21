@@ -1,0 +1,13 @@
+@font-face {
+    font-family: Exo-Thin;
+    src: url('../fonts/Exo2.0-Thin.woff') format('woff');
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: Exo-Thin;
+    src: url('../fonts/Exo2.0-Thin.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 400;
+}
